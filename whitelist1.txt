@@ -1,0 +1,46 @@
+[uBlock Origin]
+! Title: Nimasa personal adblock filter list
+! Expires: 2 days (update frequency)
+! Version: 0.1
+! http://mynext.pro/Personal_BLF.txt
+! https://raw.githubusercontent.com/nimasaj/uBO_Filterlist/master/Personal/Personal_BLF.txt
+!
+! >> report issues on https://github.com/nimasaj/uBO_Filterlist/issues
+!
+!-------------------------Generic Blocking Rules------------------------!
+!
+!------------------------Specific blocking rules------------------------!
+!
+!--------------------------element hiding rules-------------------------!
+!
+!----------------------------whitelist rules----------------------------!
+@@||app.dinero.dk
+@@||arduinotech.dk
+@@||cgi5.ebay.com
+@@||dcc.godaddy.com
+@@||lycamobileeshop.dk
+@@||lycamobile.dk
+@@||partners.sigfox.com
+@@||tickets.airbaltic.com
+@@||banggood.com
+@@||dsb.dk
+@@||flysas.com
+@@||hackster.io
+@@||nemadgang.dk
+@@||nyidanmark.dk
+@@||researchgate.net
+@@||sciencedirect.com
+@@||skyscanner.net
+@@||talahost.com
+!----------------Bank portals/ Payment gateways-----------------!
+@@||secure.oceanpayment.com
+@@||dibspayment.com
+@@||danskebank.dk
+@@||trialpay.com
+@@||uasdenmark.dk
+@@||epayment.bbs.no
+@@||payment.architrade.com
+@@||payment.quickpay.net
+@@||monetico-services.com
+@@||wlp-acs.com
+@@||arcot.com
